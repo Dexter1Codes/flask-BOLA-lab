@@ -4,3 +4,4 @@ venv/
 .env
 instance/
 attacker_cookies.txt
+*cookies.txt
